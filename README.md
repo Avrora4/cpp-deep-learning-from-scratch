@@ -16,10 +16,10 @@ This is the repository for deep-learning code from scratch in C++
 #### General
 - Create a branch for each issue
 #### Names
-- type/chXX-description
+- type/[#issue-number]-chXX-description
   - Example :
-    - feature/ch01-pointer
-    - feature/ch02-CUDA-samples
+    - feature/#12-ch01-pointer
+    - feature/#14-ch02-CUDA-samples
 
 ### Commit
 #### General
