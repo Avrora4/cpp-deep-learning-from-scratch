@@ -12,3 +12,4 @@
 -  https://colab.research.google.com/
 3. Change the using processer for GPU from Runtime - Change Runtime Type
 4. Execute the program following in the ./sample/CUDA_sample.ipynb
+- Note : hello_cuda.cu doesn't work properly
